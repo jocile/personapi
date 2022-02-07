@@ -1,9 +1,10 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Personapi" />
+ <!--  <img src="./.github/app.gif" alt="Personapi" /> -->
 
 &#xa0;
 
-  <!-- <a href="https://personapi.netlify.app">Demo</a> -->
+<a href="https://jocile-peopleapi.herokuapp.com/api/v1/people">jocile-peopleapi.herokuapp.com</a>
+
 </div>
 
 <h1 align="center">Personapi</h1>
@@ -62,7 +63,7 @@ The following tools were used in this project:
 
 ## :memo: License
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
 Made with :heart: by <a href="https://github.com/jocile" target="_blank">Jocile</a>
 
